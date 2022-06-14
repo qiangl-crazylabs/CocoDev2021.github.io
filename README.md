@@ -1,5 +1,3 @@
-<!DOCTYPE html><!-- This site was created in Webflow. http://www.webflow.com --><!-- Last Published: Wed Nov 25 2020 15:55:51 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="linqsoft.webflow.io" data-wf-page="5fbe7c7b3f1d6c6f59efbb8e" data-wf-site="5fbe7c7b3f1d6cf0d0efbb8d" data-wf-status="1"><head><meta charset="utf-8"/><title>Linqsoft ToS &amp; Privacy Policy</title><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://uploads-ssl.webflow.com/5fbe7c7b3f1d6cf0d0efbb8d/css/linqsoft.webflow.6c74e751a.css" rel="stylesheet" type="text/css"/><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://uploads-ssl.webflow.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/><link href="https://uploads-ssl.webflow.com/img/webclip.png" rel="apple-touch-icon"/></head><body>
-
 # Linqsoft
 <div class="rich-text-block w-richtext">
 
@@ -187,6 +185,3 @@ The terms of this Privacy Policy will govern the use of the Apps and any informa
 **17. Got any Questions?**
 
 If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: dilloscar1@gmail.com and we will make an effort to reply within a reasonable timeframe.
-
-‍
-</div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fbe7c7b3f1d6cf0d0efbb8d" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://uploads-ssl.webflow.com/5fbe7c7b3f1d6cf0d0efbb8d/js/webflow.a27afb355.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--></body></html>
