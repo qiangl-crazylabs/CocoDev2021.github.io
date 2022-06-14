@@ -1,7 +1,6 @@
 # Linqsoft
-<div class="rich-text-block w-richtext">
 
-## Privacy Policy &amp; Terms of Use
+## Privacy Policy & Terms of Use
 
 Linqsoft (“**we**””) respects the privacy of the users (“**User**” or “**you**”) of the mobile applications we distribute (“**Apps**”) and are committed to protect Users’ information. We believe you have a right to know our practices regarding information we may collect and use when you use our Apps.
 
@@ -17,7 +16,7 @@ BY INSTALLING THE APPS ON YOUR MOBILE DEVICE, ENTERING INTO, CONNECTING TO, ACCE
 
 **2. Which information may be processed from Users of our  Apps?**
 
-There are two types of information which may be processed about Users of our  Apps:
+There are two types of information which may be processed about Users of our Apps:
 
 2.1 Non-personal Information. Non-identifiable and anonymous information (“**Non-personal Information**”) may be collected, stored and/or processed by us and/or third party providers of certain products and services, such as ad networks, analytics, etc. (“**Third Party(ies)**”). **We** **and our Third Parties do not know the identity of the User from whom Non-personal Information has been collected.** Non-personal Information is any information which is available to us and/or our Third Parties through use by Users of the Apps.. Non-personal Information, we and our Third Parties are not aware of the identity of the User from whom Non-personal Information has been collected. Non-personal Information collected by us or our Third Parties may include technical information such as: type and version of operating system (e.g. Android, iOS, etc.), User session ID, time zone, session start / stop time, source of traffic (e.g. which ads, sites, applications and campaigns a User came from and associated revenue), App version, language (e.g. English), device type/model (e.g. Galaxy, iPhone, etc.), data regarding User behavior within Apps (e.g. ad impressions, User’s response to ads, including ads viewed or clicked), User’s in-app purchases including data regarding receipt validation, User’s gameplay (e.g. level reached, frequency and time spent in the App and in each level, game progress, fail rate, mini game(s) played, virtual currency (if any) collected or earned, virtual inventory items (if any), tools and in-app functionalities used, screens accessed, User retention, performance errors and problems (e.g. Apps’ stability, crashes, functioning, etc.), and other predefined events and behavior relating thereto (e.g. if User viewed a specific ad and other game play events, time of the event, internet connectivity (Wi-Fi, 3G), device time zone, etc.), our other installed Apps, and geo-location – only at a country. It is hereby clarified that no street name is collected. Some jurisdictions consider this information to be personal information, for more detail about those areas see section 13.2 below.
 
