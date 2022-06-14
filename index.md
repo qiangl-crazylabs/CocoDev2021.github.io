@@ -140,7 +140,7 @@ Please be aware that after removal you will not be able to restore removed conte
 
 Personal Information We Collect, Disclose for a Business Purpose and Sell. We collect the categories of personal information about California consumers identified in the chart below.  As further set forth in the chart below, in the past 12 months we have disclosed and “sold” (as defined in the CCPA) California consumers’ personal information to third parties for business or commercial purposes.
 
-<figure class="w-richtext-align-center w-richtext-figure-type-image"><div>![Table_Privacy.png](https://uploads-ssl.webflow.com/5fbe7c7b3f1d6cf0d0efbb8d/5fbe7cdbf9ba078a0781e6cf_Table_Privacy.png)</div></figure>
+![5fbe7cdbf9ba078a0781e6cf_Table_Privacy](5fbe7cdbf9ba078a0781e6cf_Table_Privacy.png)
 
 Your Rights Regarding Personal Information. California residents have certain rights with respect to the personal information collected by businesses.  If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations:
 
