@@ -12,6 +12,7 @@ facebook.com, 3167321663532870, RESELLER, c3e20eee3f780d68
 facebook.com, 3217508018563229, RESELLER, c3e20eee3f780d68
 facebook.com, 1279976446120502, RESELLER, c3e20eee3f780d68
 
+
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
@@ -1718,17 +1719,6 @@ ogury.com, 4f10c4dbefe795d467fac76e38f84b4b, DIRECT
 ogury.com, 865c78ec153d7e837f20fdab08ac856c, DIRECT
 appnexus.com, 11470, RESELLER
 pubmatic.com, 161546, RESELLER, 5d62403b186f2ace
-pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
-smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3 #Global
-smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3 #EUR
-smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3 #USD
-smartadserver.com, 4073, RESELLER, 060d053dcf45cbf3 #BRL
-smartadserver.com, 4074, RESELLER, 060d053dcf45cbf3 #MXN
-smartadserver.com, 4247, RESELLER, 060d053dcf45cbf3 #CAD
-smartadserver.com, 4228, RESELLER, 060d053dcf45cbf3 #USD_CTV
-rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 
 
 startapp.com, 112360001, DIRECT
