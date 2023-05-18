@@ -12,6 +12,7 @@ facebook.com, 3167321663532870, RESELLER, c3e20eee3f780d68
 facebook.com, 3217508018563229, RESELLER, c3e20eee3f780d68
 facebook.com, 1279976446120502, RESELLER, c3e20eee3f780d68
 
+
 #Adcolony
 adcolony.com, 3368f12496ddc66fae3cca0db962e22f, DIRECT, 1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
@@ -997,16 +998,16 @@ yeahmobi.com, 5135347, Reseller
 media.net, 8CUO7P3WK, RESELLER
 App-stock.com,256917,RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
-thebrave.io, 1234648, RESELLER, c25b2154543746ac
 
 #Applovin
 applovin.com, 46d606be723f41cb136fe3b414af0c0f, DIRECT
-loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
-xandr.com, 13799, RESELLER
-media.net, 8CUD06Z68, RESELLER
-pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 
 #Chartboost
 chartboost.com, 51d5641017ba474e10000004, DIRECT
@@ -1706,15 +1707,6 @@ gothamads.com, 1236, RESELLER, d9c86e5dec870222
 growintech.co, 101696 , RESELLER
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
 e-planning.net, 9522026ef023606d,RESELLER, c1ba615865ed87b2
-conversantmedia.com, 100519, RESELLER, 03113cd04947736d
-admanmedia.com, 2050, RESELLER
-appnexus.com, 4052, RESELLER
-contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
-lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 
 #Tiktok
 oceanengine.com, 12885, DIRECT
@@ -1727,17 +1719,6 @@ ogury.com, 4f10c4dbefe795d467fac76e38f84b4b, DIRECT
 ogury.com, 865c78ec153d7e837f20fdab08ac856c, DIRECT
 appnexus.com, 11470, RESELLER
 pubmatic.com, 161546, RESELLER, 5d62403b186f2ace
-pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
-smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3 #Global
-smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3 #EUR
-smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3 #USD
-smartadserver.com, 4073, RESELLER, 060d053dcf45cbf3 #BRL
-smartadserver.com, 4074, RESELLER, 060d053dcf45cbf3 #MXN
-smartadserver.com, 4247, RESELLER, 060d053dcf45cbf3 #CAD
-smartadserver.com, 4228, RESELLER, 060d053dcf45cbf3 #USD_CTV
-rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 
 
 startapp.com, 112360001, DIRECT
